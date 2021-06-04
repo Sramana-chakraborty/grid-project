@@ -190,6 +190,6 @@ input {
 }
 
 .completed-projects {
-	grid-template-rows: 20px;
+	grid-template-rows: 19px;
 	grid-auto-rows: 100px;
 }
